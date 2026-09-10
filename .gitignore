@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+release/
+*.js.map
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Electron
+out/
